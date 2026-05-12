@@ -1,24 +1,24 @@
-# 📄 Resume AI Analyzer
+# Resume AI Analyzer
 
-## 🚀 Overview
+## Overview
 Resume AI Analyzer is a simple full-stack web application that allows users to input their resume text and receive basic feedback and improvement suggestions.
 
 It helps users understand how their resume content can be improved for better clarity and job readiness.
 
 ---
 
-## 🎯 Problem Statement
+## Problem Statement
 Many students and job seekers are unsure whether their resume is effective.  
 This project helps by analyzing resume text and providing simple improvement suggestions.
 
 ---
 
-## ✨ Features
-- 📝 Accepts resume input as text
-- 🧠 Analyzes resume content
-- 📊 Provides basic improvement suggestions
-- 🎯 Helps improve resume quality and structure
-- 🖥️ Simple and easy-to-use interface
+## Features
+- Accepts resume input as text
+- Analyzes resume content
+- Provides basic improvement suggestions
+- Helps improve resume quality and structure
+- Simple and easy-to-use interface
 
 ---
 
@@ -38,7 +38,7 @@ This project helps by analyzing resume text and providing simple improvement sug
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Tech Stack
 - Frontend: React / HTML / CSS  
 - Backend: Flask / Node.js  
 - Tools: GitHub, VS Code  
